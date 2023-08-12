@@ -1,0 +1,12 @@
+
+/* That's the way to create a really immersive experience */
+html,
+body {
+    overflow: hidden;
+}
+
+* {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
